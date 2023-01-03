@@ -1,0 +1,1 @@
+Add some msg after created mongo txt file
